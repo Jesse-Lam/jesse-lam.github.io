@@ -20,8 +20,8 @@ tags:
 ### 内核接收power键触发  
 按下power键，内核接收到该消息后，把该事件上报给上层，上层会判断power被按下的时间长度，做出不同的响应，如：短按power时关闭显示进入休眠，长按power的时候弹出关机选择菜单。  
 现在，我们来看看power键的原理图，如下：  
-![rk3399-power-key1]({{ site.url }}/_posts/2017/04/28/rk3399-power-key1.jpg)  
-![rk3399-power-key2]({{ site.url }}/_posts/2017/04/28/rk3399-power-key1.jpg)  
+![rk3399-power-key1]({{ site.url_pic }}/_posts/2017/04/28/rk3399-power-key1.jpg)  
+![rk3399-power-key2]({{ site.url_pic }}/_posts/2017/04/28/rk3399-power-key2.jpg)  
 从原理图可知，当我们按下POWER_KEY的时候，拉低了PWR_KEY_L，因此给主控的GPIO0_A5脚一个中断信号。我们从源码分析：  
 kernel/arch/arm64/boot/dts/rockchip/rk3399-android.dtsi，我们可以看到如此定义：  
 ```
