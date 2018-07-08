@@ -1,6 +1,6 @@
 ---
 layout: blog
-istop: true
+istop: false
 title: "关机流程"
 background: green
 date:  2017-04-28

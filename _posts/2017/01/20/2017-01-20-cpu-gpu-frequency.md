@@ -1,6 +1,6 @@
 ---
 layout: blog
-istop: true
+istop: false
 title: "RK3399 定频操作"
 background: red
 date:  2017-01-20

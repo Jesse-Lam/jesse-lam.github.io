@@ -1,6 +1,6 @@
 ---
 layout: blog
-istop: true
+istop: false
 title: "用脚本生成内核logo"
 background: purple
 date:  2017-02-14

@@ -1,6 +1,6 @@
 ---
 layout: blog
-istop: true
+istop: false
 title: "vim使用markdown插件"
 background-image: https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1721479013,1353137248&fm=27&gp=0.jpg
 date:  2017-02-22

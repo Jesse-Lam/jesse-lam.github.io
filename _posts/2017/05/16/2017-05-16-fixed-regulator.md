@@ -1,6 +1,6 @@
 ---
 layout: blog
-istop: true
+istop: false
 title: "fixed-regulator的使用"
 background: blue
 date:  2017-05-16

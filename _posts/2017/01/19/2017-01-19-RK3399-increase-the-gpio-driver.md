@@ -1,6 +1,6 @@
 ---
 layout: blog
-istop: true
+istop: false
 title: "RK3399 增强GPIO的驱动能力"
 background-image: https://github.com/Jesse-Lam/jesse-lam.github.io/raw/master/_posts/2017/01/19/rk3399_gpio_driver.jpg
 date:  2017-01-09

@@ -1,6 +1,6 @@
 ---
 layout: blog
-istop: true
+istop: false
 title: "adb模拟按键事件"
 background: purple
 date:  2017-03-01

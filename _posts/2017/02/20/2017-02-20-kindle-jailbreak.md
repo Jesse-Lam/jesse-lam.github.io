@@ -1,6 +1,6 @@
 ---
 layout: blog
-istop: true
+istop: false
 title: "Kindle Paperwhite3 越狱安装Koreader"
 background-image: https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=3702717313,610192313&fm=27&gp=0.jpg
 date:  2017-02-20

@@ -1,6 +1,6 @@
 ---
 layout: blog
-istop: true
+istop: false
 title: "代码管理之内部代码与外部代码"
 background-image: https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=2559393617,1362683786&fm=27&gp=0.jpg
 date:  2017-02-18

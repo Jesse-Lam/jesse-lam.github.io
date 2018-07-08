@@ -1,6 +1,6 @@
 ---
 layout: blog
-istop: true
+istop: false
 title: "android 设备结点属性问题"
 background: green
 date:  2017-02-08
